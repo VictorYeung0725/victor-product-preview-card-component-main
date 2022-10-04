@@ -109,8 +109,15 @@
     background-color: var(--color-darkCyan);
     border-radius: 10px;
     padding: 1rem;
+    display: flex;
+    justify-content: center;
+    }
+
+    #shopping img{
+      padding-right: 1rem;
     }
 
     #shopping button{
     background-color: var(--color-darkCyan);
+
     }
